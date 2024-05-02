@@ -1,0 +1,11 @@
+{
+  "name": "Boss Network",
+  "website": "www.bossnetwork.vip",
+  "description": "BossNetwork",
+  "explorer": "https://bscscan.com/token/0xD788eCedCBd305d296518b692402b271086797aF",
+  "type": "BEP20",
+  "symbol": "BOSS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD788eCedCBd305d296518b692402b271086797aF"
+}
