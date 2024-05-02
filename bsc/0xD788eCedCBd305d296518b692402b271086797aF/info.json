@@ -1,7 +1,8 @@
 {
   "name": "Boss Network",
   "website": "www.bossnetwork.vip",
-  "description": "BossNetwork",
+  "description": "The BOSS Network aggregation financial management
+system platform governance token is used in the platform's multi-chain lending and aggregation financial management functions. The total circulation is 99,999 coins. Through the destruction and mining output, it is the first primary market DEFI asset aggregation financial management system platform.",
   "explorer": "https://bscscan.com/token/0xD788eCedCBd305d296518b692402b271086797aF",
   "type": "BEP20",
   "symbol": "BOSS",
